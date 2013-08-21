@@ -4,5 +4,7 @@ jam
 milk
 mushrooms
 sugar
+tin foil
+tea bags
 
 
