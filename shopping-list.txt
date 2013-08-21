@@ -6,5 +6,10 @@ mushrooms
 sugar
 tin foil
 tea bags
+snails
+garlic
+white wine
+pancakes
+
 
 
