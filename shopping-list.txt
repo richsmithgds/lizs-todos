@@ -3,5 +3,3 @@ milk
 jam
 bread
 sugar
-pancake mix
-chocolate sauce
